@@ -1,0 +1,3 @@
+C:\Users\furui\source\repos\Project_OS\ProjOS\x64\Debug\ProjOS.vcxproj.AssemblyReference.cache
+C:\Users\furui\source\repos\Project_OS\ProjOS\x64\Debug\ProjOS.MyForm.resources
+C:\Users\furui\source\repos\Project_OS\ProjOS\x64\Debug\ProjOS.vcxproj.GenerateResource.cache

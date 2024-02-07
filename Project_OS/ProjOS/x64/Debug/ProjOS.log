@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+C:\Users\furui\source\repos\Project_OS\ProjOS\MyForm.h(581,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\furui\source\repos\Project_OS\ProjOS\MyForm.h(684,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\furui\source\repos\Project_OS\ProjOS\MyForm.h(828,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjOS.vcxproj -> C:\Users\furui\source\repos\Project_OS\x64\Debug\ProjOS.exe
